@@ -1,0 +1,51 @@
+
+.contenedor{
+	border: solid;
+	border-width: 1px;
+	width:90%;
+	height:140px;
+	float: left;
+
+
+}
+
+.logo{
+	border: solid;
+	border-width: 1px;
+	width:20%;
+	height:100px;
+	float: left;
+	padding: 20px;
+}
+.slogan {
+	border: solid;
+	border-width: 1px;
+	width:70%;
+	height:100px;
+	float:left;
+	padding: 20px;
+}
+
+.slideshow {
+	border: solid;
+	border-width: 1px;
+	width:90%;
+	height:500px;
+	float: left;
+}
+.derechos {
+	border: solid;
+	border-width: 1px;
+	width:30%;
+	height:100px;
+	float: left;
+
+}
+.redes {
+	border: solid;
+	border-width: 1px;
+	width:60%;
+	height:100px;
+	float: left;
+
+}
